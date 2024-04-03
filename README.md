@@ -1,1 +1,1 @@
-This file is an example of a basic, beginner level Python project called "Turtle".
+This section will be a collection of beginner level projects.
